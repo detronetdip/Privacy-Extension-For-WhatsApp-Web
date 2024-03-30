@@ -21,19 +21,19 @@ body:hover ._2MmTH /*media send preview*/,
 body:hover .ZRhsD._2foMf /*Sticker*/,
 
 /* messages */
-body:hover ._2AOIt div:first-child /*normal message*/,
+body:hover ._amjy div:first-child /*normal message*/,
 body:hover ._3cupO /*link list message*/,
 body:hover ._1qNn2 ._1nCcB /*sticker*/,
 body:hover ._1BOF7 ._1sykI /*blue info bar*/,
 
 /* messagesPreview */
-body:hover .vQ0w7 /*message preview*/,
+body:hover ._ak8j /*message preview*/,
 
 /* name */
 body:hover div:not([role]) > div:not([role]) > ._8nE1Y ._21S-L /*user/group name in search message*/,
 body:hover div[role="row"] > div > ._8nE1Y ._21S-L /*user/group name in message list*/,
 body:hover div[role="button"] > div > ._8nE1Y ._21S-L /*user/group name in non message list*/,
-body:hover ._3W2ap /*Top user/group name*/,
+body:hover ._ak8q /*Top user/group name*/,
 body:hover ._2au8k div:nth-child(2) /*Top group user preview*/,
 body:hover ._2HCBh ._1N-sl ._1mDG- /*Details groupname*/,
 body:hover .q9lllk4z /*Details username */,
@@ -47,7 +47,7 @@ body:hover .djhxrpsl /* name in multi contact attachment */,
 /* profilePic */
 body:hover [role="row"] > div > ._1AHcd ._13jwn /*profile pic message list*/,
 body:hover [role="button"] > div > ._1AHcd ._13jwn /*profile pic non message list*/,
-body:hover ._2pr2H /*message view profile pic*/,
+body:hover ._ak8h /*message view profile pic*/,
 body:hover ._3WByx /*self profile pic*/,
 body:hover .stnyektq /*group chat msg profile pic*/,
 body:hover ._3oha0._2xaO4 /* voice message profile pic */,

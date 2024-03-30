@@ -2,14 +2,14 @@
 /* Copyright (c) 2024 Lukas Lenhardt - lukaslen.com             */
 /* Released under the MIT license, see LICENSE file for details */
 
-._2AOIt div:first-child /*normal message*/,
+._amjy div:first-child /*normal message*/,
 ._3cupO /*link list message*/,
 ._1BOF7 ._1sykI /*blue info bar*/
 {
   filter: blur(8px) grayscale(1);
   transition-delay: 0s;
 }
-._2AOIt /*normal message more padding*/
+._amjy /*normal message more padding*/
 {
   padding-right: 40px !important;
   padding-top: 12px !important;
@@ -20,7 +20,7 @@
   filter: blur(20px) grayscale(1);
   transition-delay: 0s;
 }
-._2AOIt:hover div:first-child /*normal message*/,
+._amjy:hover div:first-child /*normal message*/,
 ._3cupO:hover /*link list message*/,
 ._1qNn2 ._1nCcB:hover, /*sticker*/
 ._1BOF7 ._1sykI:hover /*blue info bar*/
